@@ -19,12 +19,12 @@
     "ad_name": "Empty",
     "ad_1024x512_banner_mid": 
     {
-      "ad_url": "Empty",
+      "ad_url": "https://www.vrmonkey.com.br/img/vrmonkey/logoVRM.png",
       "bg_color": 
       {
         "Red": 0.0,
-        "Green": 1.0,
-        "Blue": 0.0,
+        "Green": 0.0,
+        "Blue": 1.0,
         "Alpha": 1.0,
         "banner_mid_end": 0.0
       }
@@ -77,6 +77,7 @@
   }
   ]    
 }
+
 
 
 
