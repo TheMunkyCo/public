@@ -1,0 +1,80 @@
+{
+  "AdsDEV": [
+  {
+    "ad_name": "Empty",
+    "ad_1024x512_banner_long": 
+    {
+      "ad_url": "Empty",
+      "bg_color":
+        {
+        "Red": 0.0,
+        "Green": 0.0,
+        "Blue": 1.0,
+        "Alpha": 1.0,
+        "banner_long_end": 0.0
+        }
+    }
+  },
+  {
+    "ad_name": "Empty",
+    "ad_1024x512_banner_mid": 
+    {
+      "ad_url": "Empty",
+      "bg_color": 
+      {
+        "Red": 0.0,
+        "Green": 1.0,
+        "Blue": 0.0,
+        "Alpha": 1.0,
+        "banner_mid_end": 0.0
+      }
+    }
+  },
+  {
+    "ad_name": "Empty",
+    "ad_1024x512_banner_mid_black": 
+    {
+      "ad_url": "Empty",
+      "bg_color":
+        {
+        "Red": 0.0,
+        "Green": 0.0,
+        "Blue": 1.0,
+        "Alpha": 1.0,
+        "banner_mid_black_end": 0.0
+      }
+    }
+  },
+  {
+    "ad_name": "Empty",
+    "ad_1024x512_flag": 
+    {
+      "ad_url": "Empty",
+      "bg_color": 
+      {
+        "Red": 1.0,
+        "Green": 0.0,
+        "Blue": 0.0,
+        "Alpha": 1.0,
+        "flag_end": 0.0
+      }
+    }
+  },
+  { 
+    "ad_name": "Empty",
+    "ad_1024x1024_banner_short":
+        {
+      "ad_url": "Empty",
+      "bg_color": 
+      {
+        "Red": 1.0,
+        "Green": 0.0,
+        "Blue": 1.0,
+        "Alpha": 1.0,
+        "banner_short_end": 0.0
+      }
+    }
+  }
+  ]    
+}
+
