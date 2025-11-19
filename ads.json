@@ -1,7 +1,7 @@
 {
-  "AdsTest": [
+  "Ads": [
   {
-    "ad_name": "Agune",
+    "ad_name": "Empty",
     "ad_1024x512_banner_long": 
     {
       "ad_url": "Empty",
@@ -16,7 +16,7 @@
     }
   },
   {
-    "ad_name": "Agune",
+    "ad_name": "Empty",
     "ad_1024x512_banner_mid": 
     {
       "ad_url": "Empty",
@@ -31,7 +31,7 @@
     }
   },
   {
-    "ad_name": "Agune",
+    "ad_name": "Empty",
     "ad_1024x512_banner_mid_black": 
     {
       "ad_url": "Empty",
@@ -46,7 +46,7 @@
     }
   },
   {
-    "ad_name": "Agune",
+    "ad_name": "Empty",
     "ad_1024x512_flag": 
     {
       "ad_url": "Empty",
@@ -77,5 +77,6 @@
   }
   ]    
 }
+
 
 
